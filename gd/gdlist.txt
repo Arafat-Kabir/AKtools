@@ -1,0 +1,12 @@
+# Syntax: 
+#   - '#' starts a comment line
+#   - In-line comments allowed
+#   - Empty lines are ignored
+ 
+    # For test
+
+# These are the quick access paths
+~/scratch-pad/Cpp-Primer/   # this is another comment
+~/scratch-pad/
+~/GitKeys/
+
